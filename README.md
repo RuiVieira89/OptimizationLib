@@ -1,0 +1,2 @@
+# OptimizationLib
+Optimization algorithms library
