@@ -1,6 +1,6 @@
 
 ## Rui Vieira, 2020
-## Optimization without derivativer
+## Optimization without derivatives
 
 '''Nelder-Mead Method'''
 
@@ -51,7 +51,7 @@ def plotSurf(A, minimum):
 
 	fig.colorbar(im,ax=ax)
 
-	plt.pause(0.1)#(0.0001)
+	plt.pause(0.1)
 
 
 def NelderMead():
@@ -167,9 +167,4 @@ def main():
 if __name__ == '__main__':
 
 	main()
-
-
-
-
-
 
